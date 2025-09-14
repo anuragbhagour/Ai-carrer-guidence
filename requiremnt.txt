@@ -1,0 +1,25 @@
+#core libraries 
+python-dotenv
+pandas
+numpy
+
+#resume parsing 
+pymupdf
+pdfplumber
+spacy
+fuzzywuzzy[speedup]
+
+#embedding and vector db
+sentence-transformers
+faiss-cpu
+chromadb
+
+#llm and rag framework
+langchain
+google-generativeai
+
+#ml evaluation
+scikit-learn
+
+#frontend
+streamlit
