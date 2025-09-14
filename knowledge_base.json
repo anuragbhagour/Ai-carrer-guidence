@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Data Scientist",
+    "desc": "Requires Python, SQL, Machine Learning, Deep Learning, TensorFlow, PyTorch, Statistics"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "desc": "Focus on deploying ML models at scale. Skills: Python, TensorFlow, PyTorch, Docker, AWS, MLOps"
+  },
+  {
+    "title": "Full Stack Developer",
+    "desc": "Requires JavaScript, React, Node.js, Express, MongoDB, SQL, Git, Docker"
+  },
+  {
+    "title": "Backend Developer",
+    "desc": "Requires Java, Spring Boot, SQL, REST APIs, Microservices, Docker, AWS"
+  },
+  {
+    "title": "Frontend Developer",
+    "desc": "Requires HTML, CSS, JavaScript, React, Angular, Redux, UI/UX"
+  },
+  {
+    "title": "Cloud Engineer",
+    "desc": "Requires AWS, Azure, Docker, Kubernetes, CI/CD, Terraform, Networking"
+  },
+  {
+    "title": "AI Researcher",
+    "desc": "Focus on LLMs and deep learning. Requires Python, PyTorch, Transformers, Mathematics, Research Skills"
+  },
+  {
+    "title": "Data Analyst",
+    "desc": "Requires Excel, SQL, Tableau, Power BI, Python, Data Visualization"
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "desc": "Requires Networking, Linux, Security Tools, Firewalls, Threat Analysis, Python"
+  },
+  {
+    "title": "DevOps Engineer",
+    "desc": "Requires CI/CD, Docker, Kubernetes, AWS, Terraform, Git, Scripting (Python/Bash)"
+  }
+]
