@@ -1,7 +1,5 @@
 import numpy as np 
-import faiss
-from sentence_transformers import SentenceTransformer
-from build_kb import load_knowledge_base, build_to_index
+
 
 #query function 
 def query_kb(query , model , index, kb, top_k = 3, return_docs = False):

@@ -1,0 +1,14 @@
+[
+  {
+    "resume": "Python, SQL, TensorFlow, Machine Learning",
+    "true_label": "Data Scientist"
+  },
+  {
+    "resume": "JavaScript, React, Node.js, MongoDB",
+    "true_label": "Full Stack Developer"
+  },
+  {
+    "resume": "AWS, Docker, Kubernetes, Terraform",
+    "true_label": "DevOps Engineer"
+  }
+]
